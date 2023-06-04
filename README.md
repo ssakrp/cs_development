@@ -1,2 +1,2 @@
 # cs_development
-I published this project as example of C# development.
+I published this project as example of C# development. The main idea of the project is development of class, which will describe a table of identifiers based on balanced tree. Also I implemented a class for describing a node of balanced tree and a struct for describing an identifier (it consists of string name and integer attribute). For balanced tree I realized a lot of functional, which is neccesary for processing this data structure. And for ease of use I implemented a user-friendly menu. More information you can find in a file called "information" (RUS), where I published full report about the program.
